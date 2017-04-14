@@ -1,2 +1,2 @@
 print 'hello world!'
-Friends are cool
+Friends are cool!
